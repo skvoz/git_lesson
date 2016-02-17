@@ -1,0 +1,41 @@
+<?php
+//output  10kk string
+
+echo '1111';
+echo '<br/>';
+echo '1111';
+echo '<br/>';
+echo '1111';
+echo '<br/>';
+echo '1111';
+echo '<br/>';
+echo '1111';
+echo '<br/>';
+echo '1111';
+echo '<br/>';
+echo '1111';
+echo '<br/>';
+echo '1111';
+echo '<br/>';
+echo '1111';
+echo '<br/>';
+echo '1111';
+echo '<br/>';
+echo '1111';
+echo '<br/>';
+echo '1111';
+echo '<br/>';
+echo '1111';
+echo '<br/>';
+echo '1111';
+echo '<br/>';
+echo '55555';
+echo '<br/>';
+echo '11111';
+echo '<br/>';
+echo '1111';
+echo '<br/>';
+echo '1111';
+echo '<br/>';
+echo '1111';
+echo '<br/>';
